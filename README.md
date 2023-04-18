@@ -10,6 +10,6 @@ Using the Surah number, quickly create a worksheet with the following:
   
   
 Future work:
-- Make the code modulr to ask for any tafseer or translation. 
+- Make the code modulr to ask for any tafseer or translation (currently uses Ibn Kathir and The Clear Quran). 
 - right now it outputs Uthmani codex and uses the font available on your computer. Future work should be done to make this process more robust.
 - create a method to generate different outputs like word, pdf etc. 
